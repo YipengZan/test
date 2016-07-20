@@ -5,7 +5,10 @@ if (mysql_connect('localhost','root','1962313')){
 		echo "conncection fail";
 	}
 
-if (mysql_select_db("yipeng")) 
+	echo 'qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq';
+	cho 'qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq';
+	
+if (mysql_select_db("yipeng")) 	
 {echo 'database selection succeed';}
 else {
 	echo 'database selection fail';}
