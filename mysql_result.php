@@ -8,6 +8,8 @@ $query1 = mysql_query("select count(*) from phplearning");
 $arr = mysql_fetch_row($query1);
 echo $arr[0]."<br/>";
 
+dddddddddddddddddddddddddddddddddddddddddddddddddddddd
+
 echo mysql_result($query1,0,0)."<br/>";
 
 $query2 = mysql_query("select * from phplearning");
