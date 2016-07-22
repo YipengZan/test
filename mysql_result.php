@@ -10,7 +10,7 @@ echo $arr[0]."<br/>";
 
 
 dddddddddddddddddddddddddddddddddddddddddddddddddddddd
-
+kkkkkkkkkkk
 
 echo mysql_result($query1,0,0)."<br/>";
 
