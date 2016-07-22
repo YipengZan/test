@@ -9,7 +9,7 @@ $arr = mysql_fetch_row($query1);
 echo $arr[0]."<br/>";
 
 
-dddddddddddddddddddddddddddddddddddddddddddddddddddddd
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddeeeeeeeeeeeeee
 
 
 echo mysql_result($query1,0,0)."<br/>";
